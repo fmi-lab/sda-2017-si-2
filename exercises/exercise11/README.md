@@ -17,9 +17,7 @@
 ```
 Получавате файл и четете до края му, като всеки ред съдържа ребро
 Оттам проверявате, дали графът е свързан, ако е свързан проверявате дали има цикли.
-
 1. [Monk in the real estate](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/monk-in-the-real-estate/)
 1. [Utkarsh in Gardens](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/utkarsh-in-gardens-february-easy/)
-
 
 Интерпретирайте задачите, така че да използвате структурите изучени до момента, дори някои от тях да се решават лесно по различен начин.
