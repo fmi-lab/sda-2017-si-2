@@ -93,7 +93,7 @@ Disclaimer: За всички задачи изискващи оптимални
 | [61979](https://github.com/svmoskova/homeworkSDA)                                 | 1         | 0.75      | -         | -         | 3.75          |
 | 61989                                                                             | -         | -         | -         | -         | 2             |
 | [62071](https://github.com/SuHadzh/SDA)                                           | 1.5       | 1         | 1.5       | -         | 6             |
-| [61983](https://github.com/givanovn/Homeworks)                                    | 0.75      | 0.75      | 1         | -         | 4.5           |
+| [61983](https://github.com/givanovn/Homeworks)                                    | 1         | 0.75      | 1         | -         | 4.75          |
 | [61885](https://drive.google.com/drive/folders/1XQ2aBTf46r-oG2lSg2g4H8B9D2NpFIY6) | 0.50      | 1         | 1         | -         | 4.5           |
 
 
