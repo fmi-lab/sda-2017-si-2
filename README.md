@@ -5,8 +5,8 @@
 1. ~~[06.10.2017](exercises/exercise00)~~
 1. ~~[13.10.2017](exercises/exercise01)~~
 1. ~~[20.10.2017](exercises/exercise02)~~
-1. ~~[03.11.2017](exercises/exercise03)~~
-1. [08.11.2017](exercises/exercise04)
+1. ~~[03.11.2017](exercises/exercise04)~~
+1. [08.11.2017](exercises/exercise05)
 1. 10.11.2017
 1. 17.11.2017
 1. 24.11.2017
