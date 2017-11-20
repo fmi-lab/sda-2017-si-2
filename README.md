@@ -76,21 +76,22 @@ Disclaimer: За всички задачи изискващи оптимални
 
 | Факултетен номер | Домашно 1 | Домашно 2 | Домашно 3 | Домашно 4 | Домашно 5 | Крайна оценка |
 |------------------|:---------:|:---------:|:---------:|:---------:|:---------:|---------------|
-| 62051            | -         | -         | -         | -         | -         | 2             |
-| 62029            | -         | -         | -         | -         | -         | 2             |
-| 62080            | -         | -         | -         | -         | -         | 2             |
-| 62010            | -         | -         | -         | -         | -         | 2             |
-| 62058            | -         | -         | -         | -         | -         | 2             |
-| 62048            | -         | -         | -         | -         | -         | 2             |
-| 62078            | -         | -         | -         | -         | -         | 2             |
-| 61987            | -         | -         | -         | -         | -         | 2             |
-| 62065            | -         | -         | -         | -         | -         | 2             |
-| 62036            | -         | -         | -         | -         | -         | 2             |
-| 62096            | -         | -         | -         | -         | -         | 2             |
-| 61979            | -         | -         | -         | -         | -         | 2             |
-| 61989            | -         | -         | -         | -         | -         | 2             |
-| 62071            | -         | -         | -         | -         | -         | 2             |
-| 61983            | -         | -         | -         | -         | -         | 2             |
+| [62051](https://github.com/bvalchev/fmi-sda)        | -         | -         | -         | -         | -         | 2             |
+| 62029                                               | -         | -         | -         | -         | -         | 2             |
+| [62080](https://github.com/VictoryaG97)             | -         | -         | -         | -         | -         | 2             |
+| [62010](https://drive.google.com/drive/folders/0Bzih-l7teu8UUldwSk4yNDJ3bGM) | -         | -         | -         | -         | -         | 2             |
+| 62058                                               | -         | -         | -         | -         | -         | 2             |
+| [62048](https://github.com/i7odorov/si2-gr2-hw)     | -         | -         | -         | -         | -         | 2             |
+| [62078](https://github.com/simoliqta/Homework-SDA)  | -         | -         | -         | -         | -         | 2             |
+| [61987](https://github.com/nicoleSv/sda-homeworks)  | -         | -         | -         | -         | -         | 2             |
+| [62065](https://github.com/nbratanov/SDA-homework) | -         | -         | -         | -         | -         | 2             |
+| [62036](https://github.com/pavel-mitev/si2-hw)      | -         | -         | -         | -         | -         | 2             |
+| [62096](https://github.com/StefanG97/SDA-Homeworks) | -         | -         | -         | -         | -         | 2             |
+| [61979](https://github.com/svmoskova/homeworkSDA)   | -         | -         | -         | -         | -         | 2             |
+| 61989                                               | -         | -         | -         | -         | -         | 2             |
+| [62071](https://github.com/SuHadzh/SDA)             | -         | -         | -         | -         | -         | 2             |
+| [61983](https://github.com/givanovn/Homeworks)      | -         | -         | -         | -         | -         | 2             |
+| [61885](https://drive.google.com/drive/folders/1XQ2aBTf46r-oG2lSg2g4H8B9D2NpFIY6) | -         | -         | -         | -         | -         | 2             |
 
 ## Конспект
 
