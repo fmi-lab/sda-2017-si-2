@@ -76,24 +76,26 @@ Disclaimer: За всички задачи изискващи оптимални
 * [4-та задача](exercises/exercise11#Задачи)
 * [4-та задача](exercises/exercise13#Задачи)
 
-| Факултетен номер | Домашно 1 | Домашно 2 | Домашно 3 | Домашно 4 | Крайна оценка | 
-|------------------|:---------:|:---------:|:---------:|:---------:|:---------:|---------------|
-| [62051](https://github.com/bvalchev/fmi-sda)        | 1         | 1.25         | 0.75         | -         | 5             |
-| [62029](https://github.com/valentinvarbanov/sda)    | 1.5         | 1.5         | 1         | -         | 6             |
-| [62080](https://github.com/VictoryaG97)             | 1.25         | 1         | 1.25         | -         | 5.5             |
-| [62010](https://drive.google.com/drive/folders/0Bzih-l7teu8UUldwSk4yNDJ3bGM)| 1         | 1.25         | 1.25         | -         | 5.75             |
-| 62058                                               |           | -         | -         | -         | 2             |
-| [62048](https://github.com/i7odorov/si2-gr2-hw)     | 1.25         | 0.75         | -         | -         | 4            |
-| [62078](https://github.com/simoliqta/Homework-SDA)  | 1         | 0.5         | 0.75         | -         | 3.5             |
-| [61987](https://github.com/nicoleSv/sda-homeworks)  | 1.25         | 0.75         | 1         | -         | 5             |
-| [62065](https://github.com/nbratanov/SDA-homework)  | 1.25         | 0.75         | 0.75         | -         | 4.75             |
-| [62036](https://github.com/pavel-mitev/si2-hw)      | 1.25         | 0.75         | 0.75         | -         | 4.75             |
-| [62096](https://github.com/StefanG97/SDA-Homeworks) | 0.75         | 0.75         | 1.25         | -         | 4.75             |
-| [61979](https://github.com/svmoskova/homeworkSDA)   | 1         | 0.75         | -         | -         | 3.75             |
-| 61989                                               | -         | -         | -         | -         | 2             |
-| [62071](https://github.com/SuHadzh/SDA)             | 1.5         | 1         | 1.5         | -         | 6             |
-| [61983](https://github.com/givanovn/Homeworks)      | 0.75         | 0.75         | 1         | -         | 4.5           |
-| [61885](https://drive.google.com/drive/folders/1XQ2aBTf46r-oG2lSg2g4H8B9D2NpFIY6) | 0.50         | 1         | 1         | -         | 4.5             |
+
+| Факултетен номер                                                                  | Домашно 1 | Домашно 2 | Домашно 3 | Домашно 4 | Крайна оценка | 
+|-----------------------------------------------------------------------------------|:---------:|:---------:|:---------:|:---------:|:-------------:|
+| [62051](https://github.com/bvalchev/fmi-sda)                                      | 1         | 1.25      | 0.75      | -         | 5             |
+| [62029](https://github.com/valentinvarbanov/sda)                                  | 1.5       | 1.5       | 1         | -         | 6             |
+| [62080](https://github.com/VictoryaG97)                                           | 1.25      | 1         | 1.25      | -         | 5.5           |
+| [62010](https://drive.google.com/drive/folders/0Bzih-l7teu8UUldwSk4yNDJ3bGM)      | 1         | 1.25      | 1.25      | -         | 5.75          |
+| 62058                                                                             |           | -         | -         | -         | 2             |
+| [62048](https://github.com/i7odorov/si2-gr2-hw)                                   | 1.25      | 0.75      | -         | -         | 4             |
+| [62078](https://github.com/simoliqta/Homework-SDA)                                | 1         | 0.5       | 0.75      | -         | 3.5           |
+| [61987](https://github.com/nicoleSv/sda-homeworks)                                | 1.25      | 0.75      | 1         | -         | 5             |
+| [62065](https://github.com/nbratanov/SDA-homework)                                | 1.25      | 0.75      | 0.75      | -         | 4.75          |
+| [62036](https://github.com/pavel-mitev/si2-hw)                                    | 1.25      | 0.75      | 0.75      | -         | 4.75          |
+| [62096](https://github.com/StefanG97/SDA-Homeworks)                               | 0.75      | 0.75      | 1.25      | -         | 4.75          |
+| [61979](https://github.com/svmoskova/homeworkSDA)                                 | 1         | 0.75      | -         | -         | 3.75          |
+| 61989                                                                             | -         | -         | -         | -         | 2             |
+| [62071](https://github.com/SuHadzh/SDA)                                           | 1.5       | 1         | 1.5       | -         | 6             |
+| [61983](https://github.com/givanovn/Homeworks)                                    | 0.75      | 0.75      | 1         | -         | 4.5           |
+| [61885](https://drive.google.com/drive/folders/1XQ2aBTf46r-oG2lSg2g4H8B9D2NpFIY6) | 0.50      | 1         | 1         | -         | 4.5           |
+
 
 ## Конспект
 
