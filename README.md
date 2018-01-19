@@ -12,16 +12,16 @@
 1. ~~[24.11.2017](exercises/exercise08)~~
 1. ~~[29.11.2017](exercises/exercise09)~~
 1. ~~[06.12.2017](exercises/exercise10)~~
-1. 13.12.2017
-1. [05.01.2018](exercises/exercise11)
-1. 12.01.2018
-1. 19.01.2018
+1. ~~13.12.2017~~
+1. ~~[05.01.2018](exercises/exercise11)~~
+1. ~~12.01.2018~~
+1. [19.01.2018](exercises/exercise13)
 
 ## Оценяване
 
 ### Контролни (от лекции)
 1. ~~03.12.2017 09:00h @ Химически факултет, зала 210~~
-1. 16.01.2018 17:00h @ Химически факултет, зала 130
+1. ~~16.01.2018 17:00h @ Химически факултет, зала 130~~
 
 Взима се средно аритметично от двете контролни. **Освобождаване от писмен изпит** при оценка средно аритметично равна или над **4.50**.
 
@@ -30,8 +30,8 @@
 |-----------|:----------:|:----------:|
 | ~~1~~         | ~~20.10.2017~~ | ~~12.11.2017~~ |
 | ~~2~~         | ~~10.11.2017~~ | ~~26.11.2017~~ |
-| 3         | 01.12.2017 | 07.01.2017 |
-| 4         | 05.01.2018 | 19.01.2018 |
+| ~~3~~         | ~~01.12.2017~~ | ~~07.01.2017~~ |
+| 4         | 05.01.2018 | 31.01.2018 |
 
 Всяко домашно представлява 1 единица от крайната оценка от семинарни упражнения. **Домашни предадени след крайния срок не се проверяват и не носят точки.**
 
@@ -69,27 +69,30 @@ Disclaimer: За всички задачи изискващи оптимални
 
 ##### Домашно 4
 Включва задачите:
-* []()
+* [2-ра и 3-та задача](exercises/exercise11#Задачи)
 * []()
 
-| Факултетен номер | Домашно 1 | Домашно 2 | Домашно 3 | Домашно 4 | Домашно 5 | Крайна оценка |
+Бонус:
+* [4-та задача](exercises/exercise11#Задачи)
+
+| Факултетен номер | Домашно 1 | Домашно 2 | Домашно 3 | Домашно 4 | Крайна оценка | 
 |------------------|:---------:|:---------:|:---------:|:---------:|:---------:|---------------|
-| [62051](https://github.com/bvalchev/fmi-sda)        | -         | -         | -         | -         | -         | 2             |
-| [62029](https://github.com/valentinvarbanov/sda)                                               | -         | -         | -         | -         | -         | 2             |
-| [62080](https://github.com/VictoryaG97)             | -         | -         | -         | -         | -         | 2             |
-| [62010](https://drive.google.com/drive/folders/0Bzih-l7teu8UUldwSk4yNDJ3bGM) | -         | -         | -         | -         | -         | 2             |
-| 62058                                               | -         | -         | -         | -         | -         | 2             |
-| [62048](https://github.com/i7odorov/si2-gr2-hw)     | -         | -         | -         | -         | -         | 2             |
-| [62078](https://github.com/simoliqta/Homework-SDA)  | -         | -         | -         | -         | -         | 2             |
-| [61987](https://github.com/nicoleSv/sda-homeworks)  | -         | -         | -         | -         | -         | 2             |
-| [62065](https://github.com/nbratanov/SDA-homework) | -         | -         | -         | -         | -         | 2             |
-| [62036](https://github.com/pavel-mitev/si2-hw)      | -         | -         | -         | -         | -         | 2             |
-| [62096](https://github.com/StefanG97/SDA-Homeworks) | -         | -         | -         | -         | -         | 2             |
-| [61979](https://github.com/svmoskova/homeworkSDA)   | -         | -         | -         | -         | -         | 2             |
-| 61989                                               | -         | -         | -         | -         | -         | 2             |
-| [62071](https://github.com/SuHadzh/SDA)             | -         | -         | -         | -         | -         | 2             |
-| [61983](https://github.com/givanovn/Homeworks)      | -         | -         | -         | -         | -         | 2             |
-| [61885](https://drive.google.com/drive/folders/1XQ2aBTf46r-oG2lSg2g4H8B9D2NpFIY6) | -         | -         | -         | -         | -         | 2             |
+| [62051](https://github.com/bvalchev/fmi-sda)        | 1         | 1.25         | 0.75         | -         | 5             |
+| [62029](https://github.com/valentinvarbanov/sda)    | 1.5         | 1.5         | 1         | -         | 6             |
+| [62080](https://github.com/VictoryaG97)             | 1.25         | 1         | 1.25         | -         | 5.5             |
+| [62010](https://drive.google.com/drive/folders/0Bzih-l7teu8UUldwSk4yNDJ3bGM)| 1         | 1.25         | 1.25         | -         | 5.75             |
+| 62058                                               |           | -         | -         | -         | 2             |
+| [62048](https://github.com/i7odorov/si2-gr2-hw)     | 1.25         | 0.75         | -         | -         | 4            |
+| [62078](https://github.com/simoliqta/Homework-SDA)  | 1         | 0.5         | 0.75         | -         | 3.5             |
+| [61987](https://github.com/nicoleSv/sda-homeworks)  | 1.25         | 0.75         | 1         | -         | 5             |
+| [62065](https://github.com/nbratanov/SDA-homework)  | 1.25         | 0.75         | 0.75         | -         | 4.75             |
+| [62036](https://github.com/pavel-mitev/si2-hw)      | 1.25         | 0.75         | 0.75         | -         | 4.75             |
+| [62096](https://github.com/StefanG97/SDA-Homeworks) | 0.75         | 0.75         | 1.25         | -         | 4.75             |
+| [61979](https://github.com/svmoskova/homeworkSDA)   | 1         | 0.75         | -         | -         | 3.75             |
+| 61989                                               | -         | -         | -         | -         | 2             |
+| [62071](https://github.com/SuHadzh/SDA)             | 1.5         | 1         | 1.5         | -         | 6             |
+| [61983](https://github.com/givanovn/Homeworks)      | 0.75         | 0.75         | 1         | -         | 4.5           |
+| [61885](https://drive.google.com/drive/folders/1XQ2aBTf46r-oG2lSg2g4H8B9D2NpFIY6) | 0.50         | 1         | 1         | -         | 4.5             |
 
 ## Конспект
 
